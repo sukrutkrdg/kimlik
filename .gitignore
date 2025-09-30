@@ -1,0 +1,5 @@
+# Çevre değişkenleri ve hassas bilgiler
+.env
+
+# Node.js paketleri
+node_modules/
